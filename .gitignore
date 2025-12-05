@@ -1,0 +1,16 @@
+target/classes/com/workintech/s18d1/controller/BurgerController.class
+target/classes/com/workintech/s18d1/dao/BurgerDao.class
+target/classes/com/workintech/s18d1/dao/BurgerDaoImpl.class
+target/classes/com/workintech/s18d1/entity/BreadType.class
+target/classes/com/workintech/s18d1/entity/Burger.class
+target/classes/com/workintech/s18d1/exceptions/BurgerErrorResponse.class
+target/classes/com/workintech/s18d1/exceptions/BurgerException.class
+target/classes/com/workintech/s18d1/exceptions/BurgerValidation.class
+target/classes/com/workintech/s18d1/exceptions/GlobalExceptionHandler.class
+target/classes/com/workintech/s18d1/S18d1Application.class
+target/test-classes/com/workintech/s18d1/ApplicationPropertiesAndControllerTest.class
+target/test-classes/com/workintech/s18d1/MainTest.class
+target/test-classes/com/workintech/s18d1/ResultAnalyzer$TestResultStatus.class
+target/test-classes/com/workintech/s18d1/ResultAnalyzer.class
+target/test-classes/com/workintech/s18d1/ResultAnalyzer2$TestResultStatus.class
+target/test-classes/com/workintech/s18d1/ResultAnalyzer2.class
